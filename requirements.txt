@@ -1,0 +1,26 @@
+# Gmail MCP Server Dependencies
+
+# MCP (Model Context Protocol)
+mcp>=1.0.0
+
+# Google API Client
+google-api-python-client>=2.0.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.0.0
+google-auth>=2.0.0
+
+# Email utilities
+html2text>=2020.1.16
+
+# Async support
+aiohttp>=3.8.0
+asyncio-throttle>=1.0.0
+
+# Data validation and parsing
+pydantic>=2.0.0
+python-dateutil>=2.8.0
+
+
+
+# Logging enhancements
+colorlog>=6.0.0
